@@ -52,6 +52,10 @@
 
 ## Python的基本语法
 
+## 什么是 Telnet
+
+## 如何用 Telnet 模拟 HTTP 协议
+
 ## 什么是 RESTful API
 
 ## 什么是curl
